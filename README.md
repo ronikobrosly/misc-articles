@@ -3,12 +3,25 @@ A collection of DS blog posts, papers, etc that I want to keep track of. None of
 
 # Topics
 
-- [Causality](#causality)
+- [Experiments and Causality](#experiments-and-causality)
 - [Deep Learning](#deep-learning)
+- [Software Engineering and App Development](#software-engineering-and-app-development) 
 
-## Causality
+
+## Experiments and Causality
 Author | Title | Summary | Year
 ---|---|---|---
+
+## Deep Learning
+Author | Title | Summary | Year
+---|---|---|---
+
+## Software Engineering and App Development
+Author | Title | Summary | Year
+---|---|---|---
+
+
+
 
 ## TODO
 
@@ -18,5 +31,4 @@ Author | Title | Summary | Year
 * a bunch of jacob kaplan-moss posts
 * https://mlops.community/an-engineers-guide-to-data-contracts-pt-1/
 * https://thegradient.pub/othello/
-
-
+* https://dropbox.tech/machine-learning/accelerating-our-a-b-experiments-with-machine-learning-xr
