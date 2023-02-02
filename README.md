@@ -6,11 +6,12 @@ A collection of DS blog posts, papers, videos, links, etc that I want to keep tr
 - [Experiments and Causality](#experiments-and-causality)
 - [Deep Learning](#deep-learning)
 - [Software Engineering and App Development](#software-engineering-and-app-development) 
-
+- [Career](#career)
 
 ## Experiments and Causality
 Title | Summary | Year
 ---|---|---
+[A Simpler Alternative to X-Learner for Uplift Modeling](https://medium.com/@rndonnelly/a-simpler-alternative-to-x-learner-for-uplift-modeling-f3a11ebf6bf1) | In this post, Rob Donnelly describes an approach he calls simplified X-learner (Xs-learner) that is easier to understand, faster to implement, and in my experience often works as well or better in practice than other meta-learners (s-learner, x-learner, etc). S-learner can be problematic because it biases effects towards zero. He provides python code for this new approach.
 
 ## Deep Learning
 Title | Summary | Year
@@ -21,14 +22,18 @@ Title | Summary | Year
 ---|---|---
 [The Twelve-Factor App](https://12factor.net/) | The twelve-factor methodology can be applied to apps written in any programming language, and which use any combination of backing services (database, queue, memory cache, etc). Factors include: Codebase, Dependencies, Config, Backing services, Build, release, run, Processes, Port binding, Concurrency, Disposability, Dev/prod parity, Logs, and Admin processes | 2017
 
+## Career
+Title | Summary | Year
+---|---|---
+[8 Hard Truths I learned when I got laid off from my SWE job](https://www.stevenbuccini.com/8-hard-truths-on-getting-laid-off) | A set of fantastic "hard truths" related to being laid off. Includes topics like: "Getting laid off is a profoundly lonely experience", "It’s gonna take longer than you think", "Interview invites are a poor proxy for your desirability", "Honesty can only hurt you", and more. | 2022
+[My questions for prospective employers (Director/VP roles)](https://jacobian.org/2019/apr/23/questions-for-employers-director-vp/) | Covers questions that Director or VP-level candidates should ask of potential employers. These include, for example: What does success in the role look like? What’s my boss’s (or board’s) expectations for me? What’s the degree of managerial discretion in the role? | 2019
+[When is short tenure a red flag](https://jacobian.org/2022/oct/14/when-is-short-tenure-a-red-flag/) | When is short tenure a red flag, how short is too short, how often can one change jobs, and under what conditions should you get a new job. This applies for less senior roles, and there is [another article just for staff-level, director or VP-level roles and this topic](https://jacobian.org/2022/oct/20/tenure-and-seniority/) | 2022
+
 
 
 ## TODO
 
 
-* https://medium.com/@rndonnelly/a-simpler-alternative-to-x-learner-for-uplift-modeling-f3a11ebf6bf1
-* https://www.stevenbuccini.com/8-hard-truths-on-getting-laid-off
-* a bunch of jacob kaplan-moss posts
 * https://mlops.community/an-engineers-guide-to-data-contracts-pt-1/
 * https://thegradient.pub/othello/
 * https://dropbox.tech/machine-learning/accelerating-our-a-b-experiments-with-machine-learning-xr
