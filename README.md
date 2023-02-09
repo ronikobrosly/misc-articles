@@ -62,6 +62,7 @@ Title | Summary | Year
 Title | Summary | Year
 ---|---|---
 [The Twelve-Factor App](https://12factor.net/) | The twelve-factor methodology can be applied to apps written in any programming language, and which use any combination of backing services (database, queue, memory cache, etc). Factors include: Codebase, Dependencies, Config, Backing services, Build, release, run, Processes, Port binding, Concurrency, Disposability, Dev/prod parity, Logs, and Admin processes | 2017
+[Evidence-based Software Engineering](http://knosof.co.uk/ESEUR/) | Entire book describing software engineering and ML principles with tons of analysis of public code. Lots of super interestng plots.  | 2020
 
 
 
