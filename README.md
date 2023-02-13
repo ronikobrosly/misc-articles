@@ -37,8 +37,9 @@ Title | Summary | Year
 ## Experiments and Causality
 Title | Summary | Year
 ---|---|---
-[A Simpler Alternative to X-Learner for Uplift Modeling](https://medium.com/@rndonnelly/a-simpler-alternative-to-x-learner-for-uplift-modeling-f3a11ebf6bf1) | In this post, Rob Donnelly describes an approach he calls simplified X-learner (Xs-learner) that is easier to understand, faster to implement, and in my experience often works as well or better in practice than other meta-learners (s-learner, x-learner, etc). S-learner can be problematic because it biases effects towards zero. He provides python code for this new approach.
+[A Simpler Alternative to X-Learner for Uplift Modeling](https://medium.com/@rndonnelly/a-simpler-alternative-to-x-learner-for-uplift-modeling-f3a11ebf6bf1) | In this post, Rob Donnelly describes an approach he calls simplified X-learner (Xs-learner) that is easier to understand, faster to implement, and in my experience often works as well or better in practice than other meta-learners (s-learner, x-learner, etc). S-learner can be problematic because it biases effects towards zero. He provides python code for this new approach. | 2023
 [An introduction to g methods](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6074945/) | The use of "g methods" by epidemiologists has been hampered by limitations in understanding both conceptual and technical details. The authors present a simple worked example that illustrates basic concepts, while minimizing technical complications. Written by epidemiologists Ashley I Naimi, Stephen R Cole, and Edward H Kennedy. | 2017
+[Getting to decisions faster in A/B tests – part 1: literature review](https://aurimas.eu/blog/2023/01/getting-to-decisions-faster-in-a-b-tests-part-1-literature-review/) | Discusses what teams do to 1) get to decisions faster (i.e. dealing with the "peeking problem") and 2) alternatives used that may be more intuitive than null-hypothesis testing (NHT). In future posts, the author will dive into the most interesting methods to fully understand what they promise and what they deliver. | 2023
 
 
 ## Job Search
