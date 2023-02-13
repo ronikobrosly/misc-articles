@@ -1,7 +1,7 @@
 # misc-data-science-articles
 A collection of DS blog posts, papers, videos, links, etc that I want to keep track of. None of these are related to data team leadership (see [this repo for those links](https://github.com/ronikobrosly/awesome-data-leadership))
 
-Also, this is a fantastic set of links: https://github.com/kuchin/awesome-cto#project-management
+Also, this is a fantastic set of links: https://github.com/kuchin/awesome-cto
 
 # Topics
 
