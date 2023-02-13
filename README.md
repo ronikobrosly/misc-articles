@@ -25,6 +25,7 @@ Title | Summary | Year
 Title | Summary | Year
 ---|---|---
 [An Engineer's Guide to Data Contracts - Part 1](https://mlops.community/an-engineers-guide-to-data-contracts-pt-1/) | Goes over a technical implementation of a data contract. Specifically, a CDC-based (Change Data Capture) implementation of Entity-based Data Contracts, covering contract definition, schema enforcement, and fulfillment. | 2022
+[Supercharge your data processing with DuckDB: Efficient & blazing fast SQL analytics in Pandas with DuckDB](https://medium.com/learning-sql/supercharge-your-data-processing-with-duckdb-cea907196704) | Have been wondering for a while what the point of DuckDB is given the modern cloud stack, but I misunderstood the point of it. It's great for when there are large local files you need to query, when pandas will typically choke. Article gives plenty of example code on its use. | 2022
 
 
 ## Deep Learning
