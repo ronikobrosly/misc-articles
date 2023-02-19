@@ -15,6 +15,8 @@ Also, here are fantastic awesome lists, aggregations, etc:
 - [MLOps](#mlops)
 - [Organizations](#organizations)
 - [Software Engineering and App Development](#software-engineering-and-app-development) 
+- [Visualization and plotting code](#visualization-and-plotting-code)
+
 
 
 ## Career
@@ -75,9 +77,10 @@ Title | Summary | Year
 [Real-world Engineering Challenges #8: Breaking up a Monolith](https://newsletter.pragmaticengineer.com/p/real-world-eng-8) | A deep dive into how Khan Academy took a 1 million-line Python monolith and split it into ~40 Go services in a more than 3 year-long project. Incredible story about how to structure and carry out a huge migration. | 2023
 
 
-
-
-
+# Visualization and plotting code
+Title | Summary | Year
+---|---|---
+[SciencePlots](https://github.com/garrettj403/SciencePlots) | A collection of Matplotlib styles for plotting | 2022
 
 
 
