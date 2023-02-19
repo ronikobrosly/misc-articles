@@ -48,7 +48,7 @@ Title | Summary | Year
 [How Etsy Handles Peeking in A/B Testing](https://www.etsy.com/codeascraft/how-etsy-handles-peeking-in-a-b-testing) | Excellent write-up with links on Etsy's methods for dealing with the A/B testing peeking problem. Essentially they create a p-value threshold curve for any given experiment, and if they current p-value falls below that threshold you can stop the experiment early. | 2018
 [confseq: A python package for confidence sequences and uniform boundaries](https://pypi.org/project/confseq/) | Documentation around "always-valid p-values". That is, no matter how many times you peak at the p-value, the results account for inflated false positives and the p-values are valid. | 2021
 [How to Double A/B Testing Speed with CUPED: Microsoft’s variance reduction that’s becoming industry standard.](https://towardsdatascience.com/how-to-double-a-b-testing-speed-with-cuped-f80460825a90) | Very gentle introduction to CUPED approach to A/B testing. Basically, you leverage pre-experiment data to reduce the variance estimates of your test outcomes and thus you will need less sample size. | 2021
-
+[Causal Inference for the Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) | An e-book that discusses the many techniques around causal inference | 2022
 
 ## Job Search
 Title | Summary | Year
