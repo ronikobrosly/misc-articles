@@ -84,6 +84,9 @@ Title | Summary | Year
 [Aquarel](https://github.com/lgienapp/aquarel) | A lightweight templating engine and wrapper around Matplotlibs' rcparams to make styling plots simple. | 2022
 [Randy Chase custom config](https://twitter.com/DopplerChase/status/1625616089593028609?s=20) | A nice custom matplotlib config with code | 2023
 [TUEplots](https://github.com/pnkraemer/tueplots) | A package for figure sizes, font sizes, fonts, and more configurations at minimal overhead. | 2023
+[matplotx](https://github.com/nschloe/matplotx) | More styles and useful extensions for Matplotlib | 2022
+
+
 ## TODO
 
 
