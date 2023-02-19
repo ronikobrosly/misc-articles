@@ -81,7 +81,7 @@ Title | Summary | Year
 Title | Summary | Year
 ---|---|---
 [SciencePlots](https://github.com/garrettj403/SciencePlots) | A collection of Matplotlib styles for plotting | 2022
-
+[Aquarel](https://github.com/lgienapp/aquarel) | A lightweight templating engine and wrapper around Matplotlibs' rcparams to make styling plots simple. | 2022
 
 
 ## TODO
