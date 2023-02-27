@@ -17,6 +17,7 @@ Also, here are fantastic awesome lists, aggregations, etc:
 - [MLOps](#mlops)
 - [Organizations](#organizations)
 - [Software Engineering and App Development](#software-engineering-and-app-development) 
+- [Tools](#tools)
 - [Visualization and plotting code](#visualization-and-plotting-code)
 
 
@@ -85,6 +86,12 @@ Title | Summary | Year
 [Real-world Engineering Challenges #8: Breaking up a Monolith](https://newsletter.pragmaticengineer.com/p/real-world-eng-8) | A deep dive into how Khan Academy took a 1 million-line Python monolith and split it into ~40 Go services in a more than 3 year-long project. Incredible story about how to structure and carry out a huge migration. | 2023
 
 
+## Tools
+Title | Summary | Year
+---|---|---
+[Manipulate big data with Arrow & DuckDB](https://www.christophenicault.com/post/large_dataframe_arrow_duckdb/) | Gives primer on DuckDB and Apache Arrow and how they can be used to analyze big data from a personal machine. | 2022
+
+
 # Visualization and plotting code
 Title | Summary | Year
 ---|---|---
@@ -95,8 +102,8 @@ Title | Summary | Year
 [matplotx](https://github.com/nschloe/matplotx) | More styles and useful extensions for Matplotlib | 2022
 
 
-## TODO
 
+## TODO
 
 * https://medium.com/the-prefect-blog/should-you-measure-the-value-of-a-data-team-95c447f28d4a
 * https://dropbox.tech/machine-learning/accelerating-our-a-b-experiments-with-machine-learning-xr
