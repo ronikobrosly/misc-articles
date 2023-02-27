@@ -1,5 +1,5 @@
 # misc-articles
-A collection of DS blog posts, papers, videos, links, etc that I want to keep track of. None of these are related to data team leadership (see [this repo for those links](https://github.com/ronikobrosly/awesome-data-leadership))
+A collection of blog posts, papers, videos, links, etc that I want to keep track of. None of these are related to data team leadership (see [this repo for those links](https://github.com/ronikobrosly/awesome-data-leadership))
 
 Also, here are fantastic awesome lists, aggregations, etc: 
 * https://github.com/kuchin/awesome-cto
@@ -12,6 +12,7 @@ Also, here are fantastic awesome lists, aggregations, etc:
 - [Data Engineering](#data-engineering)
 - [Deep Learning](#deep-learning)
 - [Experiments and Causality](#experiments-and-causality)
+- [General Management](#general-management)
 - [Job Search](#job-search)
 - [MLOps](#mlops)
 - [Organizations](#organizations)
@@ -52,6 +53,12 @@ Title | Summary | Year
 [confseq: A python package for confidence sequences and uniform boundaries](https://pypi.org/project/confseq/) | Documentation around "always-valid p-values". That is, no matter how many times you peak at the p-value, the results account for inflated false positives and the p-values are valid. | 2021
 [How to Double A/B Testing Speed with CUPED: Microsoft’s variance reduction that’s becoming industry standard.](https://towardsdatascience.com/how-to-double-a-b-testing-speed-with-cuped-f80460825a90) | Very gentle introduction to CUPED approach to A/B testing. Basically, you leverage pre-experiment data to reduce the variance estimates of your test outcomes and thus you will need less sample size. | 2021
 [Causal Inference for the Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) | An e-book that discusses the many techniques around causal inference | 2022
+
+## General Management
+Title | Summary | Year
+---|---|---
+[The Feedback Equation](https://larahogan.me/blog/feedback-equation/) | A framework to help one successfully structure specific and actionable feedback. The equation is: Observation of a behavior + Impact of the behavior + Question or Request = Actionable, specific feedback that has a chance of landing. | 2018
+
 
 ## Job Search
 Title | Summary | Year
