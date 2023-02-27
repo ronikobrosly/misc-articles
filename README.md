@@ -89,7 +89,7 @@ Title | Summary | Year
 ## Tools
 Title | Summary | Year
 ---|---|---
-[Manipulate big data with Arrow & DuckDB](https://www.christophenicault.com/post/large_dataframe_arrow_duckdb/) | Gives primer on DuckDB and Apache Arrow and how they can be used to analyze big data from a personal machine. | 2022
+[Manipulate big data with Arrow & DuckDB](https://www.christophenicault.com/post/large_dataframe_arrow_duckdb/) | Gives primer on DuckDB and Apache Arrow and how they can be used together to super quickly analyze big data using a personal machine. | 2022
 
 
 # Visualization and plotting code
