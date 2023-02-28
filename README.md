@@ -90,6 +90,7 @@ Title | Summary | Year
 Title | Summary | Year
 ---|---|---
 [Manipulate big data with Arrow & DuckDB](https://www.christophenicault.com/post/large_dataframe_arrow_duckdb/) | Gives primer on DuckDB and Apache Arrow and how they can be used together to super quickly analyze big data using a personal machine. | 2022
+[Setting up a new machine for data science](https://github.com/RamiKrispin/awesome-ds-setting) | A bunch of useful python, docker, git, and terminal settings for doing ML Engineering work | 2023
 
 
 # Visualization and plotting code
