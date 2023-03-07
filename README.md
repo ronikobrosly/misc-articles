@@ -17,6 +17,7 @@ Also, here are fantastic awesome lists, aggregations, etc:
 - [MLOps](#mlops)
 - [Organizations](#organizations)
 - [Software Engineering and App Development](#software-engineering-and-app-development) 
+- [Statistics](#statistics)
 - [Tools](#tools)
 - [Visualization and plotting code](#visualization-and-plotting-code)
 
@@ -84,6 +85,11 @@ Title | Summary | Year
 [The Twelve-Factor App](https://12factor.net/) | The twelve-factor methodology can be applied to apps written in any programming language, and which use any combination of backing services (database, queue, memory cache, etc). Factors include: Codebase, Dependencies, Config, Backing services, Build, release, run, Processes, Port binding, Concurrency, Disposability, Dev/prod parity, Logs, and Admin processes | 2017
 [Evidence-based Software Engineering](http://knosof.co.uk/ESEUR/) | Entire book describing software engineering and ML principles with tons of analysis of public code. Lots of super interestng plots.  | 2020
 [Real-world Engineering Challenges #8: Breaking up a Monolith](https://newsletter.pragmaticengineer.com/p/real-world-eng-8) | A deep dive into how Khan Academy took a 1 million-line Python monolith and split it into ~40 Go services in a more than 3 year-long project. Incredible story about how to structure and carry out a huge migration. | 2023
+
+
+
+Title | Summary | Year
+---|---|---
 
 
 ## Tools
