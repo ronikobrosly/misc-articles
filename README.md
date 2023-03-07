@@ -87,10 +87,10 @@ Title | Summary | Year
 [Real-world Engineering Challenges #8: Breaking up a Monolith](https://newsletter.pragmaticengineer.com/p/real-world-eng-8) | A deep dive into how Khan Academy took a 1 million-line Python monolith and split it into ~40 Go services in a more than 3 year-long project. Incredible story about how to structure and carry out a huge migration. | 2023
 
 
-
+## Statistics
 Title | Summary | Year
 ---|---|---
-
+[FOUNDED UPON AN ERROR](https://www.allendowney.com/blog/2021/05/07/founded-upon-an-error/) | Describes how the argument that Bayesian statistics didn't take off earlier in history due to computational limitations is bunk. It was due to statistical leaders at the time threw their weight behind frequentist stats | 2023
 
 ## Tools
 Title | Summary | Year
