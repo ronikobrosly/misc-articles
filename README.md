@@ -43,7 +43,7 @@ Title | Summary | Year
 ---|---|---
 [Do Large Language Models learn world models or just surface statistics?](https://thegradient.pub/othello/) | Explores whether large language models (LLM) are able to learn deeper meaning of language or just surface statistics. Describes an interesting analogy to a chess game with a crow that watches. Through a series of probe experiments, the authors suggest these LMMs do in fact learn the deeper meaning of language AKA an inner world model. | 2023
 [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258) | A major, large report by the Center for Research on Foundation Models (CRFM) at the Stanford Institute for Human-Centered Artificial Intelligence. Covers their current (as of 2021) capabilities, their potential, their social implications, and their drawbacks. | 2021
-
+[Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html) | Chip Huyen's great overview of the tech challenges of productionizing LLMs | 2023
 
 ## Experiments and Causality
 Title | Summary | Year
@@ -85,7 +85,7 @@ Title | Summary | Year
 [The Twelve-Factor App](https://12factor.net/) | The twelve-factor methodology can be applied to apps written in any programming language, and which use any combination of backing services (database, queue, memory cache, etc). Factors include: Codebase, Dependencies, Config, Backing services, Build, release, run, Processes, Port binding, Concurrency, Disposability, Dev/prod parity, Logs, and Admin processes | 2017
 [Evidence-based Software Engineering](http://knosof.co.uk/ESEUR/) | Entire book describing software engineering and ML principles with tons of analysis of public code. Lots of super interestng plots.  | 2020
 [Real-world Engineering Challenges #8: Breaking up a Monolith](https://newsletter.pragmaticengineer.com/p/real-world-eng-8) | A deep dive into how Khan Academy took a 1 million-line Python monolith and split it into ~40 Go services in a more than 3 year-long project. Incredible story about how to structure and carry out a huge migration. | 2023
-
+[Keep the monolith, but split the workloads](https://incident.io/blog/monolith) | Discusses pros and cons of monolith and microservices, and a nice pattern for running monolith better | 2023
 
 ## Statistics
 Title | Summary | Year
