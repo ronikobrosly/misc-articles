@@ -1,6 +1,16 @@
 # misc-articles
 A collection of blog posts, papers, videos, links, etc that I want to keep track of. None of these are related to data team leadership (see [this repo for those links](https://github.com/ronikobrosly/awesome-data-leadership))
 
+https://vadimkravcenko.com/shorts/proper-documentation/
+https://a16z.com/emerging-architectures-for-llm-applications/
+https://eugeneyan.com//writing/llm-patterns/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_446#collect-user-feedback-to-build-our-data-flywheel
+https://eugeneyan.com/writing/llm-problems/
+https://pair.withgoogle.com/explorables/grokking/
+
+
+
+
+
 Also, here are fantastic awesome lists, aggregations, etc: 
 * https://github.com/kuchin/awesome-cto
 * https://github.com/eugeneyan/applied-ml
