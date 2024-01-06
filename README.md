@@ -122,6 +122,7 @@ Title | Summary | Year
 
 ## TODO
 
+* mitigating the winner's curse in experiments (Bayesian a/b testing): https://www.etsy.com/codeascraft/mitigating-the-winners-curse-in-online-experiments
 * paper on best approach for structure learning: https://arxiv.org/pdf/2310.13387.pdf#page11
 * best talks on A/B tests: https://docs.google.com/spreadsheets/d/1CLdCxXpmb2UhGOx-rCkj_8UsfSuNthasVuagseNVWrU/htmlview
 * Optimizely's white paper on experiments: https://bdjknm.files.cmp.optimizely.com/download/9dbe7b14942111eea7b41a8a51acfb25?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOlsiOWRiZTdiMTQ5NDIxMTFlZWE3YjQxYThhNTFhY2ZiMjUiXSwiZXhwIjoxNzAxODY1NjcxfQ.8YswU6t6KqNtP96Rr_zFCykTlWgp_Fus9Tun_c5jq8o&_gl=1*c3rykk*_gcl_au*ODU5ODE0NDA1LjE3MDMzNDUyOTk.*_ga*MjA3MzUyMzQzOS4xNzAzMzQ1Mjk3*_ga_C7SLJ6HMJ5*MTcwMzM1MTMyOS4yLjAuMTcwMzM1MTMyOS42MC4wLjA.
