@@ -1,15 +1,6 @@
 # misc-articles
 A collection of blog posts, papers, videos, links, etc that I want to keep track of. None of these are related to data team leadership (see [this repo for those links](https://github.com/ronikobrosly/awesome-data-leadership))
 
-https://vadimkravcenko.com/shorts/proper-documentation/
-https://a16z.com/emerging-architectures-for-llm-applications/
-https://eugeneyan.com//writing/llm-patterns/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_446#collect-user-feedback-to-build-our-data-flywheel
-https://eugeneyan.com/writing/llm-problems/
-https://pair.withgoogle.com/explorables/grokking/
-
-
-
-
 
 Also, here are fantastic awesome lists, aggregations, etc: 
 * https://github.com/kuchin/awesome-cto
@@ -122,6 +113,14 @@ Title | Summary | Year
 
 ## TODO
 
+* Cool guide to using command line: https://github.com/jlevy/the-art-of-command-line
+* https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/
+* https://eugeneyan.com/writing/unit-testing-ml/
+* https://vadimkravcenko.com/shorts/proper-documentation/
+* https://a16z.com/emerging-architectures-for-llm-applications/
+* https://eugeneyan.com//writing/llm-patterns/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_446#collect-user-feedback-to-build-our-data-flywheel
+* https://eugeneyan.com/writing/llm-problems/
+* https://pair.withgoogle.com/explorables/grokking/
 * mitigating the winner's curse in experiments (Bayesian a/b testing): https://www.etsy.com/codeascraft/mitigating-the-winners-curse-in-online-experiments
 * paper on best approach for structure learning: https://arxiv.org/pdf/2310.13387.pdf#page11
 * best talks on A/B tests: https://docs.google.com/spreadsheets/d/1CLdCxXpmb2UhGOx-rCkj_8UsfSuNthasVuagseNVWrU/htmlview
