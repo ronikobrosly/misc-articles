@@ -113,6 +113,12 @@ Title | Summary | Year
 
 ## TODO
 
+* https://arxiv.org/pdf/2403.05440.pdf
+* https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-1-basics
+* https://weaviate.io/blog/verba-open-source-rag-app
+* https://jina.ai/news/what-is-colbert-and-late-interaction-and-why-they-matter-in-search/
+* https://textmine.com/post/an-introduction-to-knowledge-graphs?utm_source=substack&utm_medium=email
+* https://github.com/yoheinakajima/mindgraph?utm_source=substack&utm_medium=email
 * Cool guide to using command line: https://github.com/jlevy/the-art-of-command-line
 * https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/
 * https://eugeneyan.com/writing/unit-testing-ml/
