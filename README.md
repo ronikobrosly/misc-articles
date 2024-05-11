@@ -113,6 +113,7 @@ Title | Summary | Year
 
 ## TODO
 
+* https://yanirseroussi.com/2024/05/06/business-questions-to-ask-before-taking-a-startup-data-role/
 * https://hamel.dev/blog/posts/evals/?utm_source=substack&utm_medium=email
 * https://arxiv.org/pdf/2403.05440.pdf
 * https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-1-basics
