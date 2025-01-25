@@ -116,6 +116,7 @@ Title | Summary | Year
 
 * cosine similarity has flaws: https://www.shaped.ai/blog/cosine-similarity-not-the-silver-bullet-we-thought-it-was
 * Bob Wilson's Adventures in Why: https://www.adventuresinwhy.com/
+* a 2024 survey of time series methods: https://arxiv.org/pdf/2412.20512
 
 * https://yanirseroussi.com/2024/05/06/business-questions-to-ask-before-taking-a-startup-data-role/
 * https://hamel.dev/blog/posts/evals/?utm_source=substack&utm_medium=email
