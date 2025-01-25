@@ -113,6 +113,7 @@ Title | Summary | Year
 
 ## TODO
 
+* Taiming LLMs: a practical guide: https://www.tamingllms.com/markdown/toc.html?utm_source=substack&utm_medium=email
 * Archetypes of LLM apps: https://www.contraption.co/archetypes-of-llm-apps/
 * How AI-assisted coding will change software engineering: hard truths: https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering?utm_medium=email
 * cosine similarity has flaws: https://www.shaped.ai/blog/cosine-similarity-not-the-silver-bullet-we-thought-it-was
