@@ -113,6 +113,10 @@ Title | Summary | Year
 
 ## TODO
 
+
+* cosine similarity has flaws: https://www.shaped.ai/blog/cosine-similarity-not-the-silver-bullet-we-thought-it-was
+* Bob Wilson's Adventures in Why: https://www.adventuresinwhy.com/
+
 * https://yanirseroussi.com/2024/05/06/business-questions-to-ask-before-taking-a-startup-data-role/
 * https://hamel.dev/blog/posts/evals/?utm_source=substack&utm_medium=email
 * https://arxiv.org/pdf/2403.05440.pdf
