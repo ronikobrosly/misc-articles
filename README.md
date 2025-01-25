@@ -113,6 +113,8 @@ Title | Summary | Year
 
 ## TODO
 
+* LLM monitoring and Observability: https://www.influxdata.com/blog/llm-monitoring-observability-influxdb/
+* Lean Data Automation, decomposing "scheduling layer", "infrastructure layer", and "asset lineage layer": https://www.run.house/blog/lean-data-automation-a-principal-components-approach
 * Incredible guide to puthon package dependency: https://nielscautaerts.xyz/python-dependency-management-is-a-dumpster-fire.html?utm_campaign=Data_Elixir&utm_source=Data_Elixir_512
 * Really good "The problem with reasoners": https://aidanmclaughlin.notion.site/reasoners-problem
 * Taiming LLMs: a practical guide: https://www.tamingllms.com/markdown/toc.html?utm_source=substack&utm_medium=email
