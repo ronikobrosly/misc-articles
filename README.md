@@ -113,7 +113,8 @@ Title | Summary | Year
 
 ## TODO
 
-
+* Archetypes of LLM apps: https://www.contraption.co/archetypes-of-llm-apps/
+* How AI-assisted coding will change software engineering: hard truths: https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering?utm_medium=email
 * cosine similarity has flaws: https://www.shaped.ai/blog/cosine-similarity-not-the-silver-bullet-we-thought-it-was
 * Bob Wilson's Adventures in Why: https://www.adventuresinwhy.com/
 * a 2024 survey of time series methods: https://arxiv.org/pdf/2412.20512
