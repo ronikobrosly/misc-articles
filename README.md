@@ -113,6 +113,8 @@ Title | Summary | Year
 
 ## TODO
 
+* Incredible guide to puthon package dependency: https://nielscautaerts.xyz/python-dependency-management-is-a-dumpster-fire.html?utm_campaign=Data_Elixir&utm_source=Data_Elixir_512
+* Really good "The problem with reasoners": https://aidanmclaughlin.notion.site/reasoners-problem
 * Taiming LLMs: a practical guide: https://www.tamingllms.com/markdown/toc.html?utm_source=substack&utm_medium=email
 * Archetypes of LLM apps: https://www.contraption.co/archetypes-of-llm-apps/
 * How AI-assisted coding will change software engineering: hard truths: https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering?utm_medium=email
