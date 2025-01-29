@@ -113,6 +113,13 @@ Title | Summary | Year
 
 ## TODO
 
+
+Customer growth modeling:
+* https://medium.com/growthzilla/2-1-4-customer-growth-models-efc0a7f64e21
+* https://www.artefact.com/blog/scoring-customer-propensity-using-machine-learning-models-on-google-analytics-data/
+* https://funnel.io/blog/what-is-marketing-mix-modeling-mmm-explained
+
+
 * LLM monitoring and Observability: https://www.influxdata.com/blog/llm-monitoring-observability-influxdb/
 * Lean Data Automation, decomposing "scheduling layer", "infrastructure layer", and "asset lineage layer": https://www.run.house/blog/lean-data-automation-a-principal-components-approach
 * Incredible guide to puthon package dependency: https://nielscautaerts.xyz/python-dependency-management-is-a-dumpster-fire.html?utm_campaign=Data_Elixir&utm_source=Data_Elixir_512
